@@ -16,8 +16,7 @@ The following **required** functionality is completed:
 
 
 ## Video Walkthrough
-
-[Guide](https://youtube.com/shorts/qf_9chZF4lw?feature=share)
+[YouTube Walkthrough](https://youtube.com/shorts/qf_9chZF4lw?feature=share)
 
 
 ## Notes
